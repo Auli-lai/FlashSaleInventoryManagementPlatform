@@ -1,5 +1,6 @@
 # MiniRedis Desktop Manager
 
+
 基于 **Qt5 + C++11** 的 Redis 兼容数据管理桌面客户端。一键启动内嵌 mini_redis 服务器，树形浏览 Key，支持 String/List/Hash/Set/ZSet 五种数据类型的可视化编辑。
 
 ---
