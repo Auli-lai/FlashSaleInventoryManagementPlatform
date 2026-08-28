@@ -90,6 +90,14 @@ m_client->sendCommand(
 └─────────────────────────────────────────────────────┘
 ```
 
+```bash
+redis-benchmark -h 127.0.0.1 -p 6379 -c 100 -n 500000 -t set,get
+
+SET-QPS:201045.44 requests per second
+GET-QPS:186150.41 requests per second
+
+```
+
 > **10w+ QPS** 的单机库存扣减能力，满足绝大多数电商秒杀场景需求。
 
 > ---
