@@ -1,3 +1,0 @@
-/mnt/e/Vscode projects/FlashSaleInventoryManagementPlatform/mini_redis/build/CMakeFiles/mini_redis.dir
-/mnt/e/Vscode projects/FlashSaleInventoryManagementPlatform/mini_redis/build/CMakeFiles/edit_cache.dir
-/mnt/e/Vscode projects/FlashSaleInventoryManagementPlatform/mini_redis/build/CMakeFiles/rebuild_cache.dir
